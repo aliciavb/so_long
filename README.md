@@ -66,6 +66,10 @@ so_long/
 
 ## ¡Gracias por llegar hasta aquí!
 
-| Proyecto completado en Julio 2025 |
-| Dime hola por slack en 42 Madrid: @avinals- |
-| O mándame un email: avinals-@student.42madrid.com |
+Proyecto completado en Julio 2025
+
+Dime hola por slack en 42 Madrid: @avinals-
+
+O mándame un email: avinals-@student.42madrid.com
+
+
