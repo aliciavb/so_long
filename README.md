@@ -1,12 +1,6 @@
-# So Long
-
-Juego 2D desarrollado en C como parte del curriculum de 42 Madrid. El jugador debe recolectar todos los objetos del mapa y alcanzar la salida evitando enemigos.
-
 ![Gameplay](screenshots/maps/example.png)
 
-## Descripción
-
-So Long es un juego basado en tiles donde el jugador navega por un mapa, recolecta objetos y evita enemigos para llegar a la salida. El proyecto se enfoca en la gestión de ventanas, manejo de eventos, renderizado gráfico y gestión de memoria.
+So Long es un juego 2D desarrollado en C como parte del curriculum de 42 Madrid. El jugador debe recolectar todos los objetos del mapa y alcanzar la salida evitando enemigos. Está basado en tiles donde el jugador navega por un mapa, recolecta objetos y evita enemigos para llegar a la salida. El proyecto se enfoca en la gestión de ventanas, manejo de eventos, renderizado gráfico y gestión de memoria.
 
 ## Tecnologías
 
