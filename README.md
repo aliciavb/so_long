@@ -16,6 +16,7 @@ So Long es un juego 2D desarrollado en C como parte del curriculum de 42 Madrid.
 sudo apt-get update
 sudo apt-get install gcc make xorg libxext-dev libbsd-dev
 ```
+*Necesitarás descargar la ![minilibx de 42 Paris](https://github.com/42paris/minilibx-linux) y añadirla al proyecto.
 
 ### Compilación
 ```bash
